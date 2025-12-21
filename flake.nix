@@ -6,7 +6,8 @@
     
     icon_src = {
       flake = false;
-      url = "github:IgorFerreiraMoraes/Mignon-icon-theme";
+      #url = "github:IgorFerreiraMoraes/Mignon-icon-theme";
+      url = "github:Silk-OT/Mignon-icon-theme";
     };
   };
 
