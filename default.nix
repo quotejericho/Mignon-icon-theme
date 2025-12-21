@@ -12,7 +12,7 @@
 
 stdenvNoCC.mkDerivation (finalAttr: {
   pname = "mignon-icon-theme";
-  version = "0-unstable-2025-10-24";
+  version = "0-unstable-2025-12-21";
 
   src = icon_src;
 
