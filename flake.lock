@@ -3,15 +3,15 @@
     "icon_src": {
       "flake": false,
       "locked": {
-        "lastModified": 1759182799,
-        "narHash": "sha256-5Za0HaHjqtUNIa8HX1kUijNv5IKjEm/bxY1lXtrMi0I=",
-        "owner": "IgorFerreiraMoraes",
+        "lastModified": 1766297653,
+        "narHash": "sha256-SYGY7azZGbcTgaAO30qHXllQxE7cNHQxM0zClCP7GhQ=",
+        "owner": "Silk-OT",
         "repo": "Mignon-icon-theme",
-        "rev": "f377ad86b88582aaa0564f559ff2ab296d1d646e",
+        "rev": "7ce2bd145eb9b39ef4d8123c6c2c8e998fdcb008",
         "type": "github"
       },
       "original": {
-        "owner": "IgorFerreiraMoraes",
+        "owner": "Silk-OT",
         "repo": "Mignon-icon-theme",
         "type": "github"
       }
